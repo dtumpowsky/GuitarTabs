@@ -1,35 +1,39 @@
-### _GuitarTab_
-### Version 1.0
-#### By: David Tumpowsky, Randy Weyer, Kristi Hwang, Jim McNamara, Noah Medoff
-#### Date: May 17 2018
+#### _Guitar Tab Generator, 05/17/2018_
 
-##### Description
-_This web applications allows users to create a todo lists_
+### By _**David Tumpowsky, Randy Weyer, Jimmy McNamara, Kristi Hwang, Noah Medoff**_
 
-##### Setup/Installation Requirements
-* .NET
+## Description
+Create Guitar Tab and Sheet Music through Guitar music theory.
+
+### Specs
+| Spec | Input | Output |
+| :-------------     | :------------- | :------------- |
+| **Homepage** | User accesses Repository |
+| **User Selects Notes or Chord ** | Input: "Whole Note - 3rd Fret - First String" | Output: "G Note in tab and note form"|
+| **User Selects note combonation equal to a measure, 4/4 time | Input: "Four Whole Notes" | Output: "New measure begins"|
+## SetUp/Installation
+
+## Technology Used
+* JavaScript
 * C#
-##### Known Bugs
-_So far there are no bugs_
+* .NET
+* CSS
+* HTML
+* VexTab API
+* Bootstrap
+* jQuery
 
-#### Support and contact details
-_tumpowskydavid@gmail.com; randypweyer@gmail.com; krsy3ii@yahoo.com; jmcnamara44@gmail.com; nmedoff123@gmail.com_
+## Known Bugs
+* _No Known Bugs_
 
-#### Specs
-- This web application has the following functionalities:
-  *
+## Support and contact details
+
+* _tumpowskydavid@gmail.com - David Tumpowsky_
+* _randypweyer@gmail.com_ 
+* _krsy3ii@yahoo.com_ 
+* _jmcnamara44@gmail.com_
+* _nmedoff123@gmail.com_
+
 ### License
-* This program is free software: you can redistribute it and/or modify
-* it under the terms of the GNU General Public License as published by
-* the Free Software Foundation, either version 3 of the License, or
-* (at your option) any later version.
-*
-* This program is distributed in the hope that it will be useful,
-* but WITHOUT ANY WARRANTY; without even the implied warranty of
-* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-* GNU General Public License for more details.
-*
-* You should have received a copy of the GNU General Public License
-* along with this program.  If not, see <http://www.gnu.org/licenses/>.
-* Copyright (c) 2018 _tumpowskydavid@gmail.com; randypweyer@gmail.com; krsy3ii@yahoo.com; jmcnamara44@gmail.com; nmedoff123@gmail.com_
-####
+Copyright (c) 2018 David Tumpowsky, Randy Reyer, Jimmy McNamara, Kristi Hwang, Noah Medoff.
+This software is licensed under the MIT license.
